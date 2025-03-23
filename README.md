@@ -32,7 +32,7 @@ TASK: FILE HANDLING PROGRAM IN C
       So these are the programs and functions that are required in the task. i have also taken help from youtube and google from website geeks for geeks.
       The program has been coded on VISUAL STUDIO CODE and i have pasted it on my GITHUB account.
 
-     #OUTPUT
+#OUTPUT
 
-     ![Image](https://github.com/user-attachments/assets/fc285f90-288e-4632-b0ff-3e716f1507fc)
+ ![Image](https://github.com/user-attachments/assets/fc285f90-288e-4632-b0ff-3e716f1507fc)
      
