@@ -13,8 +13,11 @@
 *MENTOR*: NEELA SANTOSH
 
 #DESCRIPTION#
+
 TASK: FILE HANDLING PROGRAM IN C 
+
       I HAVE GIVEN A FILE HANDLING PROGRAM IN WHICH IT INCLUDED CREATING, WRITING, READING AND APPENDING DATA TO A FILE
+      
       So in this the program required:
             CREATING A FILE- the program should prompt the user to enter a filename and create a new file with that name.
             WRITING A  FILE- the program should allow user to input data and write it to the newly created file.
@@ -29,4 +32,6 @@ TASK: FILE HANDLING PROGRAM IN C
       So these are the programs and functions that are required in the task. i have also taken help from youtube and google from website geeks for geeks.
       The program has been coded on VISUAL STUDIO CODE and i have pasted it on my GITHUB account.
 
-      THANK YOU
+     #OUTPUT# 
+     
+     ![Image](https://github.com/user-attachments/assets/4e6ad0df-8d18-4763-845a-433323993275)
