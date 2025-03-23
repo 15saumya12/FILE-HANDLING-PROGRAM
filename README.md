@@ -34,5 +34,5 @@ TASK: FILE HANDLING PROGRAM IN C
 
      #OUTPUT
 
-     
+     ![Image](https://github.com/user-attachments/assets/fc285f90-288e-4632-b0ff-3e716f1507fc)
      
