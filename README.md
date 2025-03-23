@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 #DESCRIPTION#
-TASK: FILE HANDLIBG PROGRAM IN C 
+TASK: FILE HANDLING PROGRAM IN C 
       I HAVE GIVEN A FILE HANDLING PROGRAM IN WHICH IT INCLUDED CREATING, WRITING, READING AND APPENDING DATA TO A FILE
       So in this the program required:
             CREATING A FILE- the program should prompt the user to enter a filename and create a new file with that name.
